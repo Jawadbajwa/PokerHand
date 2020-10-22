@@ -21,11 +21,7 @@ class Rank {
 
 public class PokerHand {
 
-	//static String order = "234567890JQKA";
 	private static Functionality func = new Functionality();
-	
-	
-
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
